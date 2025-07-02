@@ -49,6 +49,7 @@ def budgetSummary():
 
 # Program starts here
 print("Welcome to Smart Finance Manager")
+print("Please fill all inputs in lower case characters !!!")
 
 # Main loop
 while True:
